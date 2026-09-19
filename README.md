@@ -7,7 +7,7 @@
 ### Colab 網址：https://colab.research.google.com/github/WuPinLiang/vocabuddy-group-07/blob/main/VocaBuddy.ipynb#scrollTo=0VuqI0k_5Eyz 
 
 ### 本組新增的單字：
-apple（蘋果）、banana（香蕉）、cat（貓咪）
+apple（蘋果）、banana（香蕉）、cat（貓）
 
 ### 本組新增的功能：
 - 顯示目前單字總數與單字分類。
